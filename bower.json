@@ -1,0 +1,33 @@
+{
+  "name": "angular-centered",
+  "homepage": "https://github.com/pashaigood/angular-centered",
+  "_release": "a98dd98b3b",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "a98dd98b3b73f6ad288839242e9ab7230ae0bcd1"
+  },
+  "_source": "https://github.com/pashaigood/angular-centered.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/pashaigood/angular-centered.git",
+  "_direct": true,
+  "main": ["angular-centered.js", "angular-centered.css"],
+  "version": "0.0.1",
+  "authors": [
+    "PBelugin <pashaigood@gmail.com>"
+  ],
+  "description": "angular centerd bower package",
+  "keywords": [
+    "angular",
+    "center"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
